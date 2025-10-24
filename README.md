@@ -19,8 +19,6 @@ This notebook demonstrates a hardware-independent compression technique that red
 ```
 svd-kv-compression/
 ├── SVD_KV_Compression.ipynb    # Complete implementation notebook
-├── SVD_Compression_Research_Paper.pdf    # Detailed research paper
-├── requirements.txt             # Python dependencies
 └── README.md                    # This file
 ```
 
@@ -354,18 +352,6 @@ The paper covers:
 - Extensive experimental validation
 - Comparative analysis with other methods
 
-## Citation
-
-If you use this notebook in your research, please cite:
-
-```bibtex
-@article{svd_kv_compression_2025,
-  title={Low-Rank SVD Compression for Memory-Efficient Transformer Attention},
-  author={[Authors]},
-  year={2025},
-  note={Available at: https://github.com/yourusername/svd-kv-compression}
-}
-```
 
 ## Related Work
 
@@ -392,15 +378,11 @@ Potential contributions:
 - Performance optimizations
 - Better visualizations
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Support
 
 - **Issues**: Open a GitHub issue for bugs or questions
 - **Discussions**: Use GitHub Discussions for general questions
-- **Email**: [your-email@example.com]
+- **Email**: [anasshah773@gmail.com]
 
 ## Acknowledgments
 
